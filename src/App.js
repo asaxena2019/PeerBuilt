@@ -7,7 +7,6 @@ import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 import Diversity from './components/pages/Diversity';
-import Productivity from './components/pages/Productivity';
 
 function App() {
   return (
